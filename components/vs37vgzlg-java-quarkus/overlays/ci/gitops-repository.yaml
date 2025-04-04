@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: vs37vgzlg-java-quarkus-gitops-repository
+spec:
+  url: https://github.com/rhtap-qe-jsmid/vs37vgzlg-java-quarkus-gitops
